@@ -1,4 +1,4 @@
-# Paladin Coding Asignment
+# Coding Asignment
 - Jirre Verkerk
 - 26-09-2020
 - Engine: Unity 2019.3.10f1
